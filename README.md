@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `URL in surge`
+## URL in surge
 
 You can see the code working in:<br />
 Open [http://movies-ferfff.surge.sh/](http://movies-ferfff.surge.sh/).
